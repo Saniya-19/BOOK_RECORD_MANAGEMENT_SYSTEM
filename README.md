@@ -29,15 +29,20 @@ subscription date is also been missed >> and also missed the renewal >> 100 + 50
 >>book1 renewal date is on 21/03/2023
 >>23/01/2023 => we need to pay a fine of 50*2=100/-
 
+>> book2
+>>Basic
+>>06/03/2023 --> subscription date
+>>07/03/2023 => borrowed a book from library
+>>book2 renewal date is on 21/03/2023
+>>23/06/2023 => we need to pay a fine of 100+( no. of days * 50)
+
+missed by renewal date >> 50/-
+missed by subscription date >> 100/-
+missed by renewal &&  subscription date >> 150/-
 
 
-
-
-
-
-
-
-
+>> Does Subscription means free book purchased!? (1000/-)
+>> sry to ask this question but I have no idea (800/-)
 
 
 
@@ -72,3 +77,6 @@ GET: Get all issued books
 GET: get all issued books with their fine
 
 
+## npm init
+## npm i nodemon --save-dev
+## npm run dev
