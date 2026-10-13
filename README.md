@@ -1,5 +1,6 @@
 # BOOK_RECORD_MANAGEMENT_SYSTEM
 
+<<<<<<< HEAD
 Server >> starting certain book data
        >> user Register
        >> Subscriber
@@ -80,3 +81,9 @@ GET: get all issued books with their fine
 ## npm init
 ## npm i nodemon --save-dev
 ## npm run dev
+
+server >> starting certain book data
+       >> User Register
+       >>Subscriber
+       
+
